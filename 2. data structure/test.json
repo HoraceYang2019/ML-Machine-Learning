@@ -1,0 +1,20 @@
+{
+"Alist": [
+3,
+42,
+3.141,
+1337,
+"help",
+"£á"
+],
+"Astring": "balance",
+"Adict": {
+"food": [
+"fish",
+"meat",
+"cake"
+],
+"the answer": 42,
+"key": "value"
+}
+}
