@@ -1,0 +1,9 @@
+{
+	"Source File Name" : "d:\\workspace\\DataPreprocess\\RawData.csv",
+	"Target File Name" : "d:\\workspace\\DataPreprocess\\Preprocess.csv",
+	"Target No" : [1],
+	"X Max Value" : 386,
+	"Y Max Value" : 25000,
+	"Sampling Rate" : 1000,  
+	"Plot Delay Period" : 0.2
+} 
